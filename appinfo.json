@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Prieni",
+    "longName": "Revolving bubbles",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Revolving",
+    "uuid": "680b82aa-d0e8-439c-941e-8c1a20150dae",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
