@@ -1,7 +1,12 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_24H": 0,
+        "KEY_DATE": 1,
+        "KEY_INVERT": 3,
+        "KEY_VIBE": 2
+    },
     "capabilities": [
-        ""
+        "configurable"
     ],
     "companyName": "Prieni",
     "longName": "Revolving bubbles",
@@ -12,7 +17,7 @@
     "shortName": "Revolving",
     "uuid": "680b82aa-d0e8-439c-941e-8c1a20150dae",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": true
     }
